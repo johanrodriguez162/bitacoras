@@ -3,3 +3,4 @@ git log --all --graph --oneline: Visualizar la estructura completa del multivers
 git switch <personaje_codi.txt>Cambiar a la rama origen donde se encontraba Codi para iniciar la recuperación.
 git switch main: Posicionarse en la rama principal para comenzar el proceso de fusión limpia.
 git merge --no-ff <rama-frontend>Fusionar las ramas conservando explícitamente el historial de commits para asegurar la estructura requerida
+evidencia de el cumplimiento de la actividad con el comando git log --oneline
