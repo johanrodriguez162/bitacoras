@@ -1,6 +1,6 @@
 1 En el primer paso se utiliza el comando mkdir para crear la carpeta multiverso-git y con cd accedimos a dicho directorio, luego con el comando touch se creo un archivo txt el cual se le modifico y luego se guardó, usando el comando add y commit para confirmar y tomar la foto
 2 Luego con el comando git Branch creamos una línea alternativa y con el comando switch me movi en esa rama, luego con nano cambie el texto en el archivo txt y lo guarde con git add y git commit -m
-3
+3 Utilice git checkout para salir de la rama alternativa y después modifique el texto con nano, luego se guardo con git add y commit -m
 4
 5
 6
