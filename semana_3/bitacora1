@@ -10,16 +10,4 @@
 9 ejecución del comando cd para acceder a la carpeta techsolutions-web
 10 Dentro de la carpeta techsolutions-web ejecutamos el comando mkdir para crear tres directorios diferentes: activos, desarrollo y tempora
 11 ejecutamos cd para ingresar a la carpeta desarrollo
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
+12 Ejecución del comando touch para la creación de tres archivos: index.html estilo.css app.js
