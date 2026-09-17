@@ -1,0 +1,4 @@
+Explicacion sobre que es el terminal y como funcionan los comandos: pwd, cd, ls, mkdir, touch
+lluvia de ideas sobre la explicacion de nuestros compañeros	
+se realizo la actividad de contextualización e identificación de conocimientos necesarios para el aprendizaje
+Realizacion de la actividad "Tu primer viaje en el tiempo" y reallizar la bitacora
