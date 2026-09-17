@@ -1,2 +1,3 @@
 Explicacion sobre que es el terminal y como funcionan los comandos: pwd, cd, ls, mkdir, touch
-lluvia de ideas sobre la explicacion de nuestros compañeros
+lluvia de ideas sobre la explicacion de nuestros compañeros	
+se realizo la actividad de contextualización e identificación de conocimientos necesarios para el aprendizaje
