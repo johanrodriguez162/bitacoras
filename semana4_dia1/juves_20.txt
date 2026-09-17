@@ -2,3 +2,4 @@ Proyecto-rescate: realizamos una actividad de descubrir donde estaba cobi,pero t
 git log --all --graph --oneline: Visualizar la estructura completa del multiverso (todas las ramas) e identificar dónde estaba Codi.
 git switch <personaje_codi.txt>Cambiar a la rama origen donde se encontraba Codi para iniciar la recuperación.
 git switch main: Posicionarse en la rama principal para comenzar el proceso de fusión limpia.
+git merge --no-ff <rama-frontend>Fusionar las ramas conservando explícitamente el historial de commits para asegurar la estructura requerida
