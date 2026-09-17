@@ -1,0 +1,7 @@
+1 En el primer paso se utiliza el comando mkdir para crear la carpeta multiverso-git y con cd accedimos a dicho directorio, luego con el comando touch se creo un archivo txt el cual se le modifico y luego se guardó, usando el comando add y commit para confirmar y tomar la foto
+2
+3
+4
+5
+6
+7
