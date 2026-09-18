@@ -1,1 +1,0 @@
-Explicacion sobre que es el terminal y como funcionan los comandos: pwd, cd, ls, mkdir, touch
